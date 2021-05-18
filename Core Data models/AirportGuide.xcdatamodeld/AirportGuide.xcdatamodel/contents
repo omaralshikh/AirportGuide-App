@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17510.1" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AirportE" representedClassName=".AirportE" syncable="YES">
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="country" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="state" optional="YES" attributeType="String"/>
+        <relationship name="map" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MapE" inverseName="airport" inverseEntity="MapE"/>
+    </entity>
+    <entity name="MapE" representedClassName=".MapE" syncable="YES">
+        <attribute name="elevation" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="lat" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="long" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="tz" optional="YES" attributeType="String"/>
+        <relationship name="airport" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="AirportE" inverseName="map" inverseEntity="AirportE"/>
+    </entity>
+    <elements>
+        <element name="AirportE" positionX="-63" positionY="-18" width="128" height="118"/>
+        <element name="MapE" positionX="-54" positionY="-9" width="128" height="118"/>
+    </elements>
+</model>

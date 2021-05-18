@@ -1,0 +1,185 @@
+[
+    {
+        "icao": "KATL",
+        "iata": "ATL",
+        "name": "Hartsfield Jackson Atlanta International Airport",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "US",
+        "elevation": 1026,
+        "lat": 33.6366996765,
+        "lon": -84.4281005859,
+        "tz": "America\/New_York"
+    },
+    {
+        "icao": "KLAX",
+        "iata": "LAX",
+        "name": "Los Angeles International Airport",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "US",
+        "elevation": 125,
+        "lat": 33.94250107,
+        "lon": -118.4079971,
+        "tz": "America\/Los_Angeles"
+
+    },
+    {
+        "icao": "KDFW",
+        "iata": "DFW",
+        "name": "Dallas Fort Worth International Airport",
+        "city": "Dallas-Fort Worth",
+        "state": "Texas",
+        "country": "US",
+        "elevation": 607,
+        "lat": 32.8968009949,
+        "lon": -97.0380020142,
+        "tz": "America\/Chicago"
+    },
+    {
+        "icao": "KDEN",
+        "iata": "DEN",
+        "name": "Denver International Airport",
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "US",
+        "elevation": 5431,
+        "lat": 39.8616981506,
+        "lon": -104.672996521,
+        "tz": "America\/Denver"
+    },
+    {
+        "icao": "KJFK",
+        "iata": "JFK",
+        "name": "John F Kennedy International Airport",
+        "city": "New York",
+        "state": "New-York",
+        "country": "US",
+        "elevation": 13,
+        "lat": 40.63980103,
+        "lon": -73.77890015,
+        "tz": "America\/New_York"
+    },
+    {
+        "icao": "KSFO",
+        "iata": "SFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "US",
+        "elevation": 13,
+        "lat": 37.6189994812,
+        "lon": -122.375,
+        "tz": "America\/Los_Angeles"
+    },
+    {
+        "icao": "KSEA",
+        "iata": "SEA",
+        "name": "Seattle Tacoma International Airport",
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "US",
+        "elevation": 433,
+        "lat": 47.4490013123,
+        "lon": -122.3089981079,
+        "tz": "America\/Los_Angeles"
+    },
+    {
+        "icao": "KLAS",
+        "iata": "LAS",
+        "name": "McCarran International Airport",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "country": "US",
+        "elevation": 2181,
+        "lat": 36.08010101,
+        "lon": -115.1520004,
+        "tz": "America\/Los_Angeles"
+    },
+    {
+        "icao": "KIAD",
+        "iata": "IAD",
+        "name": "Washington Dulles International Airport",
+        "city": "Washington",
+        "state": "Virginia",
+        "country": "US",
+        "elevation": 312,
+        "lat": 38.94449997,
+        "lon": -77.45580292,
+        "tz": "America\/New_York"
+    },
+    {
+        "icao": "KROA",
+        "iata": "ROA",
+        "name": "Roanoke Regional Woodrum Field",
+        "city": "Roanoke",
+        "state": "Virginia",
+        "country": "US",
+        "elevation": 1175,
+        "lat": 37.3255004883,
+        "lon": -79.975402832,
+        "tz": "America\/New_York"
+    },
+    {
+        "icao": "0TS2",
+        "iata": "",
+        "name": "Ultralight International Ultralightport",
+        "city": "Haslet",
+        "state": "Texas",
+        "country": "US",
+        "elevation": 820,
+        "lat": 32.9486999512,
+        "lon": -97.3289031982,
+        "tz": "America\/Chicago"
+
+    },
+    {
+        "icao": "KIAH",
+        "iata": "IAH",
+        "name": "George Bush Intercontinental Houston Airport",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "US",
+        "elevation": 97,
+        "lat": 29.9843997955,
+        "lon": -95.3414001465,
+        "tz": "America\/Chicago"
+    },
+    {
+        "icao": "KVTA",
+        "iata": "",
+        "name": "Newark Heath Airport",
+        "city": "Newark",
+        "state": "Ohio",
+        "country": "US",
+        "elevation": 884,
+        "lat": 40.0247001648,
+        "lon": -82.4617996216,
+        "tz": "America\/New_York"
+    },
+    {
+        "icao": "KMCO",
+        "iata": "MCO",
+        "name": "Orlando International Airport",
+        "city": "Orlando",
+        "state": "Florida",
+        "country": "US",
+        "elevation": 96,
+        "lat": 28.4293994904,
+        "lon": -81.3089981079,
+        "tz": "America\/New_York"
+
+    },
+    {
+        "icao": "KCLT",
+        "iata": "CLT",
+        "name": "Charlotte Douglas International Airport",
+        "city": "Charlotte",
+        "state": "North-Carolina",
+        "country": "US",
+        "elevation": 748,
+        "lat": 35.2140007019,
+        "lon": -80.9430999756,
+        "tz": "America\/New_York"
+    }
+]
